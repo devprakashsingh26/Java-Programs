@@ -1,20 +1,62 @@
-<<<<<<< HEAD
+# DSA with Java
 
-=======
->>>>>>> b8d5a4925a3e2ba172415eb8ca737d6453913a5e
-# Java Programs
+This repository contains my practice and implementation of **Data Structures and Algorithms (DSA) using Java**.
 
-Data structures and algorithms practice in Java.
+The purpose of this repository is to improve my problem-solving skills, strengthen my understanding of Java, and prepare for coding interviews and technical assessments.
 
-## Contents
-- Linked List (singly, doubly)
-- Stack and Queue
-- Binary Search Tree
+## 📚 Topics Covered
 
-## How to run
-javac FileName.java
-<<<<<<< HEAD
-java FileName
-=======
-java FileName
->>>>>>> b8d5a4925a3e2ba172415eb8ca737d6453913a5e
+- Java Basics
+- Arrays
+- Strings
+- Searching Algorithms
+- Sorting Algorithms
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+- Recursion
+- Linked Lists
+  - Insertion
+  - Deletion
+  - Searching
+  - Updating
+- Stack
+- Queue
+- Trees
+- Binary Search Trees
+- Hashing
+- Graphs
+- Dynamic Programming
+- Sliding Window
+- Two Pointer Technique
+
+## 💻 Language Used
+
+- **Java**
+
+## 🎯 Goals
+
+- Build strong DSA fundamentals
+- Improve logical and problem-solving skills
+- Practice writing efficient Java programs
+- Prepare for coding interviews
+- Maintain a record of my DSA learning journey
+
+## 📂 Repository Structure
+
+```text
+DSA-with-Java/
+│
+├── Arrays/
+├── Strings/
+├── Searching/
+├── Sorting/
+├── Recursion/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── Graphs/
+└── DynamicProgramming/
